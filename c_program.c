@@ -68,5 +68,5 @@ int main() {
   }
 
   // Exibe resultado ao usuário
-  printf("%.2f", resultado);
+  printf("%.2f\n", resultado);
 }
